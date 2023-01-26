@@ -1,0 +1,29 @@
+.row div{
+    margin:0.2rem;
+    text-align: center;
+    color:#fff;
+}
+
+.turquesa {
+    background-color: rgb(16, 177, 163);
+}
+
+.naranja {
+    background-color: rgb(180, 119, 4);
+}
+
+.azul {
+    background-color: rgb(41, 41, 78);
+}
+
+.rojo {
+    background-color: red;
+}
+
+.morado {
+    background-color: rgb(68, 15, 112);
+}
+
+.verde {
+    background-color: rgb(29, 87, 29);
+}
